@@ -4,9 +4,10 @@ Una landing page moderna y responsive para WebPro Tools.
 
 ## Cómo visualizar
 
-1. Clona o descarga este repositorio
+1. Puedes clonar este repositorio en el siguiente link: https://github.com/JhosstinStip17/WebPro-Tools-LandingPage.git 
 2. Abre el archivo `index.html` en tu navegador web preferido
-3. O utiliza un servidor local como Live Server en VS Code para mejor experiencia
+
+1. Puedes abrir dirrectamente este link para visualizarlo: https://jhosstinstip17.github.io/WebPro-Tools-LandingPage/
 
 ## Características
 
@@ -21,4 +22,5 @@ Una landing page moderna y responsive para WebPro Tools.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
+- imagenes .svg

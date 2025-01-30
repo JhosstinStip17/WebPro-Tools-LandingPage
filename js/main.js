@@ -22,7 +22,7 @@ form.addEventListener('submit', function (e) {
         return;
     }
 
-    // Aquí iría la lógica para enviar el formulario
+    // lógica para enviar el formulario
     alert('¡Gracias por suscribirte!');
     form.reset();
 });
